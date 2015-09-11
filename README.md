@@ -1,7 +1,7 @@
 ######################################################
 #-Titulo: spptpf                                     #
 #-Desarrolladores: Gonzalo Lazaroni, Andres Orlando, #
-# Tomas Nardoni, Sergio Fernandez y Facundo.         #
+# Tomas Nardoni, Sergio Fernandez y Facundo Talamasco#
 #-V1.0                                               # 
 #@author: 3er año Tecnicatura en Programacio         #
 ######################################################
